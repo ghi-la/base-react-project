@@ -24,4 +24,4 @@ npm install
 ```
 Otherwise you can use this template directly when creating a new repository on GitHub.  
 To do so, click on **"Use this template"** button on the repository page, on the top right.
-![alt text](image.png)
+![alt text](public/image.png)
